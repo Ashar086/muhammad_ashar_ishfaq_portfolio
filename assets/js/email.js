@@ -10,8 +10,8 @@ Email.send({
     port: 2525,
     Username : "0788e03750ae70",
     Password : "d8118c3b960d31",
-    To : 'pyles.kit@gmail.com',
-    From : "pyles.kit@gmail.com",
+    To : 'muhammadasharishfaq@gmail.com',
+    From : "muhammadasharishfaq@gmail.com",
     Subject : `Landing Page Contact, RE: ${subject}`,
     Body : `Name: ${name}<br>
     EMail Address: ${email}<br>
